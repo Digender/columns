@@ -1,0 +1,12 @@
+{
+  "name": "columns",
+  "version": "1.0.0",
+  "description": "2 Column widget for CKEditor 4",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ckeditor4", "columns"],
+  "author": "Digender Mahara<mdigender@gmail.com>",
+  "license": "ISC"
+}

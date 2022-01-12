@@ -1,0 +1,8 @@
+div.columns {line-height: 1em;padding: 10px;display: flex;flex-wrap: wrap;justify-content: space-between;}
+.column1, .column2 {
+    width: calc(50% - 0.75rem);border: 0.0625rem dotted #ddd;
+}
+
+.column1, .columns2 > p {
+    padding: 0;
+}
